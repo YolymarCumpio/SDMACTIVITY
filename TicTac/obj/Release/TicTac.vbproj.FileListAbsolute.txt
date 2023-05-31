@@ -1,0 +1,27 @@
+C:\Users\MSI\source\repos\TicTac\TicTac\bin\Release\TicTac.exe.config
+C:\Users\MSI\source\repos\TicTac\TicTac\bin\Release\TicTac.exe
+C:\Users\MSI\source\repos\TicTac\TicTac\bin\Release\TicTac.pdb
+C:\Users\MSI\source\repos\TicTac\TicTac\bin\Release\TicTac.xml
+C:\Users\MSI\source\repos\TicTac\TicTac\obj\Release\TicTac.Form1.resources
+C:\Users\MSI\source\repos\TicTac\TicTac\obj\Release\TicTac.Resources.resources
+C:\Users\MSI\source\repos\TicTac\TicTac\obj\Release\TicTac.SerialKey.resources
+C:\Users\MSI\source\repos\TicTac\TicTac\obj\Release\TicTac.TrialForm.resources
+C:\Users\MSI\source\repos\TicTac\TicTac\obj\Release\TicTac.vbproj.GenerateResource.cache
+C:\Users\MSI\source\repos\TicTac\TicTac\obj\Release\TicTac.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\TicTac\TicTac\obj\Release\TicTac.exe
+C:\Users\MSI\source\repos\TicTac\TicTac\obj\Release\TicTac.xml
+C:\Users\MSI\source\repos\TicTac\TicTac\obj\Release\TicTac.pdb
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\bin\Release\TicTac.exe.config
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\bin\Release\TicTac.exe
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\bin\Release\TicTac.pdb
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\bin\Release\TicTac.xml
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.vbproj.AssemblyReference.cache
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.Form1.resources
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.Resources.resources
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.SerialKey.resources
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.TrialForm.resources
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.vbproj.GenerateResource.cache
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.vbproj.CoreCompileInputs.cache
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.exe
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.xml
+D:\HDD Desktop files\Cumpio\TicTac\TicTac\obj\Release\TicTac.pdb
